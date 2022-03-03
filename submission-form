@@ -1,0 +1,23 @@
+<!<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>SUBMISSION FORM</title>
+  </head>
+  <body>
+    <!--HTML FORM-->
+    <form action="index.html" method="post">
+
+      <input type="text" name="fullname" placeholder="Full name:">
+      <br>
+      <input type="email" name="email" placeholder="Email:">
+      <br>
+      <input type="contact" name="contact" placeholder="Contact:">
+      <br>
+      <textarea name="address" placeholder="Address:" rows="4" cols="50"></textarea>
+      <br>
+      <input type="submit" name="submit">
+
+    </form>
+  </body>
+  </html>
